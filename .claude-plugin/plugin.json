@@ -1,0 +1,6 @@
+{
+  "name": "vela-js-skill",
+  "version": "1.0.0",
+  "description": "Multi-stage workflow for building Xiaomi Vela quick apps (VelaJS quickapp) for watch and IoT devices — PRD, tech design, and code generation stages with bundled platform rules, component/API knowledge, and optional Figma MCP design-driven generation.",
+  "author": { "name": "Aser Mohamed" }
+}

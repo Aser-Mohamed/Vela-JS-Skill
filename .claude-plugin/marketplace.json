@@ -1,0 +1,14 @@
+{
+  "name": "vela-js-skill",
+  "owner": { "name": "Aser Mohamed" },
+  "metadata": {
+    "description": "Vela-JS-Skill: workflow skill for building Xiaomi Vela quick apps in Claude Code"
+  },
+  "plugins": [
+    {
+      "name": "vela-js-skill",
+      "source": "./",
+      "description": "Multi-stage workflow for building Xiaomi Vela quick apps (VelaJS quickapp)"
+    }
+  ]
+}
